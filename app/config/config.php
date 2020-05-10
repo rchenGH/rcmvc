@@ -4,7 +4,7 @@
     define('APPROOT', dirname(dirname(__FILE__)));
 
     // URL Root
-    define('URLROOT', 'http://localhost:8080/rcmvc/pages');
+    define('URLROOT', 'http://localhost:8080/rcmvc/public');
 
     // Site Name
     define('SITENAME', 'RCMVC');
